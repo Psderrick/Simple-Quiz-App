@@ -6,7 +6,7 @@ A modern, responsive and interactive web-based  quiz application built with HTML
 
 ## 🚀 Demo
 
-[🔗 Live Demo ](https://yourusername.github.io/sports-quiz-app)
+[🔗 Live Demo ]https://psderrick.github.io/Simple-Quiz-App/
 
 ---
 
